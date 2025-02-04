@@ -1,0 +1,5 @@
+vim door_management_files/door_logs/door_1.log
+
+В vim: dd чтобы удалить LOCKED 
+    i, пишем OPEN
+    Esc :wq
